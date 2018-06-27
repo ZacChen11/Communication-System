@@ -1,0 +1,2 @@
+# Communication-System
+This is a simple communication network system for a group of friends. There is a list of a group of friends and the contact messages that will be sent by each person. This information will be read from a file called “calls.txt”. One person will send a contact message to one or more friends in the group, and then wait for a confirmation reply from that person. The whole communication process will be logged by a master process too.
